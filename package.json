@@ -10,10 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-helmet": "^4.1.0",
     "koa-router": "^7.4.0"
   },
   "devDependencies": {
     "@types/koa": "^2.0.48",
+    "@types/koa-bodyparser": "^4.2.2",
+    "@types/koa-helmet": "^3.1.2",
     "@types/koa-router": "^7.0.40",
     "nodemon": "^1.18.10",
     "ts-node": "^8.0.3",
